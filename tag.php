@@ -1,0 +1,3 @@
+<div class="tg"><b>Tag :-</b> <?= $row["title"]; ?> download hd down2load2.ml, www.down2load2.ml, download.ml, down2load2.com, <?= $row["name"]; ?>, Down2load, downloadhd, Bollywood Movies, Hollywood Movies, South Indian Movies, Tv Show, movie download, hd movie free download, mp4, mkv, avi, 3pg, pc hd, high revolution, high quality, movieghar, marathi movies,<?= $row["title"]; ?>, pakistani movies, english movie, bangladeshi movie, webseries, hotstar, sonyliv, netflix, voot,  3gp, mp4, movie, bhojpuri movies, 480p, 720p, 1080p, hevc 480p, hevc 720p, hevc 1080p, 4k, 2k, 2k movies, in Hindi, doubed english dual audio,<?= $row["star"]; ?>
+
+</div>

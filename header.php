@@ -1,0 +1,3 @@
+<body>
+
+<?= $ads["header"]; ?> 

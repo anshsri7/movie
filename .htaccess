@@ -1,0 +1,12 @@
+RewriteEngine On
+RewriteRule ^sitemap\.xml/?$ sitemap.php
+
+
+RewriteRule ^([^/\.]+)/([^/\.]+)/([^/\.]+)/?$ post.php?id=$1&category=$2&alias=$3 [L]
+
+
+
+RewriteRule ^category/([^/\.]+)/?$ category.php?id=$1 [L]
+
+DirectoryIndex index.php index2.php index.html index.htm index2.html
+
